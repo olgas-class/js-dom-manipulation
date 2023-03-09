@@ -1,0 +1,21 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+.green {
+    background-color: green;
+}
+
+.rounded {
+    border-radius: 10px;
+}
+
+#greeting {
+    padding: 1rem;
+    border: 1px solid red;
+    border-radius: 10px;
+    width: 150px;
+}
